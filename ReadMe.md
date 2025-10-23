@@ -468,6 +468,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 | **Title/Link**                                                                 | **Description**                                  | **Status** |
 |---------------------------------------------------------------------------------|--------------------------------------------------|------------|
 | [**✅ 1- All RL Algorithms from Scratch**](https://github.com/FareedKhan-dev/all-rl-algorithms?tab=readme-ov-file) | GitHub repository with video lectures for computer science courses | Pending    |
+| [**✅ 2- Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl) | GitHub repository with video lectures for computer science courses | Pending    |
+
 
 
 
@@ -521,6 +523,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
