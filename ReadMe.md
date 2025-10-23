@@ -467,12 +467,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 
 | **Title/Link**                                                                 | **Description**                                  | **Status** |
 |---------------------------------------------------------------------------------|--------------------------------------------------|------------|
-| [**✅ 1- Computer Science Courses with Video Lectures**](https://github.com/Developer-Y/cs-video-courses?fbclid=IwZXh0bgNhZW0CMTAAAR2J9tEPD3kPegVzCWQ0WkBYSS6go_0G0PjRSaNojiOjDG85ccS45lZGyBE_aem_Ack4D65TusReJ6ybfh6ZIy9MXZ6ezPKugIzvqWZO2HtMW1C4Y38SpzlpjSzB4pr4-X4tFDusPKaI4SeieXZKMIcn) | GitHub repository with video lectures for computer science courses | Pending    |
-| [**✅ 2- ML YouTube Courses**](https://github.com/dair-ai/ML-YouTube-Courses?fbclid=IwAR26ZRVJyPC6_fFmcOy5IA-u4relyRSAxM5N-pleAD59VwrsSvOX8MsEpaQ) | GitHub repository containing YouTube courses on machine learning | Pending    |
-| [**✅ 3- ML Roadmap**](https://github.com/loganthorneloe/ml-roadmap?tab=readme-ov-file#mathematics) | GitHub repository for machine learning roadmap | Pending    |
-| [**✅ 4- Courses & Resources**](https://github.com/SkalskiP/courses#cr%C3%A8me-de-la-cr%C3%A8me-of-ai-courses) | GitHub repository with AI courses and resources | Pending    |
-| [**✅ 5- Awesome Machine Learning and AI Courses**](https://github.com/luspr/awesome-ml-courses#awesome-machine-learning-and-ai-courses) | GitHub repository featuring a curated list of machine learning and AI courses | Pending    |
-| [**✅ 6- Feature Engineering and Feature Selection**](https://github.com/Yimeng-Zhang/feature-engineering-and-feature-selection) | GitHub repository focused on feature engineering and selection in Python by Yimeng Zhang | Pending    |
+| [**✅ 1- All RL Algorithms from Scratch**](https://github.com/FareedKhan-dev/all-rl-algorithms?tab=readme-ov-file) | GitHub repository with video lectures for computer science courses | Pending    |
+
 
 
 
@@ -525,6 +521,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
