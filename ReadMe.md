@@ -309,7 +309,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 
 <details> 
-<summary> <h2>Course 01 - 🗞️📚Other Best Free Resources to Learn Machine learning </h2> </summary>
+<summary> <h2>Course 01 - 🗞️📚Other Best Free Resources to Learn Reinforcement Learning </h2> </summary>
   
   - [Bagging_&_Random_Forests](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Bagging_%26_Random_Forests.ipynb)
   - [Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/supervised%20algorithm/Reg-Mulitple-Linear-Regression-Co2-py-v1.ipynb)
@@ -406,30 +406,13 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
  </details>
 
 <details> 
-<summary> <h2>📕 Machine Learning Resources </h2> </summary>
+<summary> <h2>📕 Reinforcement Learning Resources </h2> </summary>
 
 ## 👁️ Chapter 1: - **Free Courses**
 | No. | Title/Link | Description | Reading Status | University / Platform | Feedback |
 |-----|------------|-------------|----------------|------------------------|----------|
-| 1 | [**Machine Learning Specialization**](https://www.coursera.org/specializations/machine-learning-introduction/?msockid=2542a2661bba61a702b4b7c51a616059) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
-| 2 | [**Machine Learning**](https://techdevguide.withgoogle.com/paths/machine-learning/) | A free course from Google | Pending | Google |  |
-| 3 | [**Machine Learning from Scratch - Python**](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E) | By Patrick Loeber (YouTube) | Pending | YouTube |  |
-| 4 | [**Machine Learning Zoomcamp**](https://github.com/DataTalksClub/machine-learning-zoomcamp) | A free 4-month course on ML engineering | Pending | DataTalks.Club |  |
-| 5 | [**Stanford CS229: Machine Learning**](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU) | Full course taught by Andrew Ng | Pending | Stanford |  |
-| 6 | [**Google Machine Learning Education**](https://developers.google.com/machine-learning) | Google's dedicated ML learning hub | Pending | Google |  |
-| 7 | [**StatQuest: Machine Learning**](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=2) | Easy-to-understand ML explained with stats | Pending | StatQuest (YouTube) |  |
-| 8 | [**PreCalculus - Math for ML**](https://www.youtube.com/playlist?list=PLHXZ9OQGMqxcFN7BoQsgCyS9Wh0JPwttc) | By Dr. Trefor Bazett (Great math fundamentals) | Pending | YouTube |  |
-| 9 | [**Machine Learning with Graphs**](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn) | Covers GNNs and graph-based ML | Pending | Stanford |  |
-| 10 | [**MIT RES.LL-005 Mathematics of Big Data and ML**](https://www.youtube.com/playlist?list=PLUl4u3cNGP62uI_DWNdWoIMsgPcLGOx-V) | In-depth mathematical foundations | Pending | MIT |  |
-| 11 | [**CS294-158 Deep Unsupervised Learning SP19**](https://www.mrdbourke.com/2020-machine-learning-roadmap/) | Covers deep learning and generative models | Pending | UC Berkeley |  |
-| 12 | [**Introduction to Machine Learning**](https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT) | By Dmitry (University of Tübingen) | Pending | University of Tübingen |  |
-| 13 | [**Statistical Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC) | By Ulrike von Luxburg | Pending | University of Tübingen |  |
-| 14 | [**Probabilistic Machine Learning - 2020**](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd) | By Philipp Hennig | Pending | University of Tübingen |  |
-| 15 | [**Machine Learning Concepts**](https://inria.github.io/scikit-learn-mooc/toc.html) |github websit it implement all concept in sklearn| Pending | Github |⭐️⭐️⭐️  |
-| 16 | [**Singular Value Decomposition**](https://www.youtube.com/playlist?list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) |Steve Brunton| Pending | Youtub | |
-| 17 | [**Linear Algebra for Machine Learning**](https://www.youtube.com/watch?v=Qc19jQWHdL0&list=PLRDl2inPrWQW1QSWhBU0ki-jq_uElkh2a) |Jon Krohn| Pending | Youtub |⭐️⭐️⭐️ |
-| 18 | [**Learning from Data**](https://work.caltech.edu/lectures.html) |Taught by Feynman Prize winner Professor Yaser Abu-Mostafa. | Youtub |⭐️⭐️⭐️ |
-| 19| [**UC Berkeley CS188 Intro to AI**](https://ai.berkeley.edu/lecture_videos.html) |Complete sets of Lecture Slides and Videos | Youtub |⭐️⭐️⭐️ |
+| 1 | [**DeepMind x UCL | Introduction to Reinforcement Learning 2015**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
+
 
 
 
@@ -523,6 +506,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
