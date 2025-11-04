@@ -411,7 +411,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 ## 👁️ Chapter 1: - **Free Courses**
 | No. | Title/Link | Description | Reading Status | University / Platform | Feedback |
 |-----|------------|-------------|----------------|------------------------|----------|
-| 1 | [**DeepMind x UCL | Introduction to Reinforcement Learning 2015**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
+| 1 | [**DeepMind x UCL Introduction to Reinforcement Learning 2015**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
 
 
 
@@ -506,6 +506,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
