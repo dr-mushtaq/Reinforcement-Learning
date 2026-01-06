@@ -411,7 +411,7 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 ## 👁️ Chapter 1: - **Free Courses**
 | No. | Title/Link | Description | Reading Status | University / Platform | Feedback |Extra Resource|
 |-----|------------|-------------|----------------|------------------------|----------|----|
-| 1 | [**DeepMind x UCL Introduction to Reinforcement Learning 2015**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |
+| 1 | [**DeepMind x UCL Introduction to Reinforcement Learning 2015**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | By  d.silver, Coursera | In Progress | Coursera |[1](https://davidstarsilver.wordpress.com/teaching/) |
 | 2 | [**CS 224R Deep Reinforcement Learning**](https://cs224r.stanford.edu/) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)|
 
 
@@ -452,8 +452,8 @@ Public](https://github.com/Akramz/Hands-on-Machine-Learning-with-Scikit-Learn-Ke
 
 | **Title/Link**                                                                 | **Description**                                  | **Status** |
 |---------------------------------------------------------------------------------|--------------------------------------------------|------------|
-| [**✅ 1- All RL Algorithms from Scratch**](https://github.com/FareedKhan-dev/all-rl-algorithms?tab=readme-ov-file) | GitHub repository with video lectures for computer science courses | Pending    |
-| [**✅ 2- Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl) | GitHub repository with video lectures for computer science courses | Pending    |
+| [** 1- Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl) | GitHub repository with video lectures for computer science courses | Pending    |
+
 
 
 
@@ -508,6 +508,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
