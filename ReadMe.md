@@ -126,32 +126,20 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅1- Python (OOP, decorators, multiprocessing)⭐️**](https://substack.com/home/post/p-155594915)| [1](https://drive.google.com/file/d/1JyDUmJ9U6mUlCvwBvC6crxVpdxbup9iH/view?usp=sharing)[-2](https://www.youtube.com/watch?v=sVsF_Ne_J6c&list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG&index=10)[-2](https://drive.google.com/file/d/1qjYtkM8z5qrnFGSCSW_AraOU2Vgr1YXw/view?usp=sharing) | Content 3 |
 |[**✅2- Math: Linear Algebra, Probability, Calculus**](https://mushtaqmsit.substack.com/p/why-machine-learning-a-comprehensive)|[**1**](https://drive.google.com/file/d/16AyAQBB3L30ZfkGYTiDgjoHx7U_UENwY/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1AwKPTdB53m0b-IjMZY4zkyZSmVSY6ajV/view?usp=sharing)[**-3**](https://drive.google.com/file/d/1prbpqg0oyJxis5E3JLvC8JAMD4z27QlB/view)[**-4**](https://drive.google.com/file/d/1eCn7WdQHjh8jJG4xKVls6nGMmJGQOnO6/view)[-5](https://drive.google.com/file/d/1fgksixJG-RY1Z7O87fO3c1Ryki5TPgUi/view?usp=sharing)| [-6](https://drive.google.com/file/d/1oFRurDDLZFm6SiY0lVXeHk7ARX29Z-P4/view?usp=sharing)[-7](https://www.youtube.com/watch?v=Gv9_4yMHFhI) |
 |[**✅3-Markov Processes (MDP, Bellman equations)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)[⭐️substack](https://mushtaqmsit.substack.com/p/supervised-vs-unsupervised-learning)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
-   
 
-<details> 
-<summary> <h2>Course 02 - 📚Unsupervised Learning with scikit_learning </h2> </summary>
-
-## Course 02 -**📚🧑‍🎓Unsupervised Learning with scikit_learn**
-   - [Anomaly_Detection](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection.ipynb)
-  - [BIRCH Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/BIRCH_Clustering_in_Machine_Learning.ipynb)
-  - [Anomaly_Detection_with_Isolation_Forest_algorithm](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Anomaly_Detection_with_Isolation_Forest_algorithm.ipynb)
-  - [Kmean](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Kmean%20.ipynb)
-  - [**Unsupervised_learning**](https://github.com/hussain0048/Machine-Learning/blob/master/Unsupervised_learning.ipynb)
-  - [DBSCAN Clustering in Machine Learning](https://github.com/hussain0048/Machine-Learning/blob/master/DBSCAN_Clustering_in_Machine_Learning.ipynb)
-  - [Clus-K-Means-Customer-Seg-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-K-Means-Customer-Seg-py-v1.ipynb)
-  - [Clus-Hierarchical-Cars-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-Hierarchical-Cars-py-v1.ipynb)
-  - [Clus-DBSCN-weather-py-v1.ipynb](https://github.com/hussain0048/Machine-Learning/blob/master/Sklearn/Unsupervised%20Learning/Clus-DBSCN-weather-py-v1.ipynb)
-  - [**Hierarchical Clustering-Agglomerative method**](https://github.com/hussain0048/Machine-Learning/blob/master/Agglomerative_Clustering_using_scikit_learn.ipynb)
 </details>
 
 <details> 
-<summary> <h2>Course 03 - 📚Supervised Learning with scikit_learn </h2> </summary>
+<summary> <h2>Course 03 - 📚Classical RL </h2> </summary>
  
   ## 📚Chapter:1-**Classification**
 | Topic Name/Tutorial | Video | Code |
 |---|---|---|
-|[**✅1-Classification (Supervised Learning-⭐️**](https://mushtaqmsit.substack.com/p/introduction-to-classification-in)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**-2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**-3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**-4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
-| [**✅2-Classification using Scikit-Learn⭐️**](https://open.substack.com/pub/mushtaqmsit/p/top-supervised-learning-algorithms?r=f2squ&utm_campaign=post&utm_medium=web)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
+|[**✅1-Multi-armed bandits-⭐️**](https://mushtaqmsit.substack.com/p/introduction-to-classification-in)|[**1**](https://drive.google.com/file/d/1VYi0vfID3gu99TnTxIyJidhb_oqU8JbR/view)[**-2**](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view)[**-3**](https://drive.google.com/file/d/1N4569RvW9R9pdNit6rsVQBvdFtgz8P6_/view?usp=sharing)[**-4**](https://drive.google.com/file/d/1JFvHyfcQuvrQfmHUWQLRjwuAeLRjesGc/view?usp=sharing)|[![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb)|
+| [**✅2-Dynamic Programming⭐️**](https://open.substack.com/pub/mushtaqmsit/p/top-supervised-learning-algorithms?r=f2squ&utm_campaign=post&utm_medium=web)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
+| [**✅3-Monte Carlo methods⭐️**](https://open.substack.com/pub/mushtaqmsit/p/top-supervised-learning-algorithms?r=f2squ&utm_campaign=post&utm_medium=web)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
+| [**✅4-Temporal Difference (TD)⭐️**](https://open.substack.com/pub/mushtaqmsit/p/top-supervised-learning-algorithms?r=f2squ&utm_campaign=post&utm_medium=web)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
+| [**✅5-SARSA vs Q-Learning⭐️**](https://open.substack.com/pub/mushtaqmsit/p/top-supervised-learning-algorithms?r=f2squ&utm_campaign=post&utm_medium=web)| [1](https://drive.google.com/file/d/1hFMxywXWuzRKqA66jBJKerrzuZ62504z/view) | [![Colab icon](https://img.shields.io/badge/Colab-Open-blue.svg?logo=colab&logoColor=white)](https://github.com/hussain0048/Machine-Learning/blob/master/Supervised_%28Classification%29_ML_Model_Training_and_Evulation_.ipynb) |
 
 
 ## 📚Chapter:2-**Regression**
@@ -425,6 +413,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
