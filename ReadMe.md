@@ -202,6 +202,9 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |-----|------------|-------------|----------------|------------------------|----------|----|
 | 1 | [**DeepMind x UCL Introduction to Reinforcement Learning 2015**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | By  d.silver, Coursera | In Progress | Coursera |[1](https://davidstarsilver.wordpress.com/teaching/) |
 | 2 | [**CS 224R Deep Reinforcement Learning**](https://cs224r.stanford.edu/) | By Andrew Ng, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)|
+| 3 | [**Reinforcement Learning Specialization**](https://www.coursera.org/specializations/reinforcement-learning) | By 
+Adam White, Coursera | In Progress | Coursera | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)|
+
 
 
 
@@ -297,6 +300,7 @@ Thanks goes to these Wonderful People. Contributions of any kind are welcome!�
 <a href="https://github.com/hussain0048/Machine-Learning/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=hussain0048/Machine-Learning" />
 </a>
+
 
 
 
