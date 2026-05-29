@@ -243,7 +243,8 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 
 | **Title/Link**                                                                 | **Description**                                  | **Status** |
 |---------------------------------------------------------------------------------|--------------------------------------------------|------------|
-| [** 1- Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl) | GitHub repository with video lectures for computer science courses | Pending    |
+| [**1- Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl) | GitHub repository with video lectures for computer science courses | Pending    |
+| [**2- Reinforcement learning course**](https://github.com/upb-lea/reinforcement_learning_course_materials) | Lecture notes, tutorial tasks including solutions as well as online videos for a reinforcement learning course originally hosted at Paderborn University and transferred to University of Siegen
 
 
 
