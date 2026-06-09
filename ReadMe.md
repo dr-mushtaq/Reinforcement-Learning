@@ -196,7 +196,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 ## 👁️ Chapter 1: - **Free Courses**
 | No. | Title/Link | Description | Reading Status | University / Platform | Feedback |Extra Resource|
 |-----|------------|-------------|----------------|------------------------|----------|----|
-| 1 | [**DeepMind x UCL Introduction to Reinforcement Learning 2015**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | By  d.silver, Youtube | In Progress | Coursera |[1](https://davidstarsilver.wordpress.com/teaching/)[-2](https://github.com/dalmia/David-Silver-Reinforcement-learning/tree/master) |
+| 1 | [**DeepMind x UCL Introduction to Reinforcement Learning 2015**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ) | By  d.silver, Youtube | In Progress | Coursera |--- |[1](https://davidstarsilver.wordpress.com/teaching/)[-2](https://github.com/dalmia/David-Silver-Reinforcement-learning/tree/master)[-3](https://www.amandalmia.com/David-Silver-Reinforcement-learning/)|
 | 2 | [**CS 224R Deep Reinforcement Learning**](https://cs224r.stanford.edu/) | By Andrew Ng, Coursera | Pending | Coursera | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)|
 | 3 | [**Reinforcement Learning Specialization**](https://www.coursera.org/specializations/reinforcement-learning) | By Adam White, Coursera | Pending | Coursera | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)|
 | 4 | [**Reinforcement Learning Agents**](https://github.com/ajheshbasnet/reinforcement-learning-agents) | By Adam White, Coursera | Pending | Coursera | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)|
