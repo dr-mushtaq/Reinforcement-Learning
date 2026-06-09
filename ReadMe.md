@@ -1,8 +1,4 @@
 ## **🧠 Welcome to the A-Z Guide to Reinforcement Learning**
-<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Machine-Learning"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Machine-Learning/blob/master/DALL%C2%B7E%202025-02-20%2009.38.02%20-%20An%20enhanced%20AI-themed%20GitHub%20repository%20banner%20with%20a%20futuristic%20dark%20blue%20and%20black%20background%2C%20incorporating%20glowing%20abstract%20neural%20network%20pattern.webp"></a>
-</p>
 
 Dive into the A-Z Guide to Reinforcement Learning — a comprehensive and beginner-friendly resource designed to demystify the exciting world of RL! Whether you're a data science enthusiast, a machine learning researcher, or just curious about how agents learn through rewards, this repository is your ultimate learning companion.
 
