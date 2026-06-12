@@ -115,7 +115,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
  
 | Topic Name/Tutorial  | Video | Code |Extra Resources|
 |---|---|---|---|
-|[**✅1- Introduction to Reinforcement Learning**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/_Y3zdjNPQ7c?si=xpn2sUywk_ATL30U)[-2](https://youtu.be/2pWv7GOvuf0?si=oWtXhuIefSTMriT0)|
+|[**✅1- Introduction to Reinforcement Learning**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/_Y3zdjNPQ7c?si=xpn2sUywk_ATL30U)[-2](https://youtu.be/2pWv7GOvuf0?si=oWtXhuIefSTMriT0)|---|[11](https://youtu.be/Z-T0iJEXiwM?si=JjXltBnF6gbv2smQ)|
 |[**✅3-Markov Processes (MDP, Bellman equations)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)[⭐️substack](https://mushtaqmsit.substack.com/p/supervised-vs-unsupervised-learning)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
 
 </details>
