@@ -201,6 +201,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | 4 | [**Reinforcement Learning Agents**](https://github.com/ajheshbasnet/reinforcement-learning-agents) | By Adam White, Coursera | Pending | Coursera | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)|
 | 5 | [**Reinforcement learning course by Paderborn University**](https://github.com/upb-lea/reinforcement_learning_course_materials) | --- | Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)|
 | 6 | [**⭐Reinforcement learning course by Steve Brunton**](https://youtu.be/0MNVhXEX9to?si=89EH76OogiKhRozG) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)|
+| 7 | [**Stanford CS234 I Reinforcement Learning**](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)|
 
 
 
