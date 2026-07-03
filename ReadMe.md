@@ -247,7 +247,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**2- Reinforcement learning course**](https://github.com/upb-lea/reinforcement_learning_course_materials) | Lecture notes, tutorial tasks including solutions as well as online videos for a reinforcement learning course originally hosted at Paderborn University and transferred to University of Siegen|
 | [**3-All RL Algorithms from Scratch**](https://github.com/FareedKhan-dev/all-rl-algorithms) | GitHub repository with video lectures for computer science courses | Pending    |
 | [**4-Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl#lectures) | GitHub repository with video lectures for computer science courses | Pending    |
-
+| [**4-awesome-datascience**](https://github.com/academic/awesome-datascience) | GitHub repository with video lectures for computer science courses | Pending    |
 
 
 
