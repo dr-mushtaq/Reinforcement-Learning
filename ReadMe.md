@@ -116,6 +116,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | Topic Name/Tutorial  | Video | Code |Extra Resources|
 |---|---|---|---|
 |[**1- Introduction to Reinforcement Learning**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/_Y3zdjNPQ7c?si=xpn2sUywk_ATL30U)[-2](https://youtu.be/2pWv7GOvuf0?si=oWtXhuIefSTMriT0)|---|[1](https://youtu.be/Z-T0iJEXiwM?si=JjXltBnF6gbv2smQ)[-2](https://youtu.be/0MNVhXEX9to?si=ojI9-TpIA2dNgpdc)|
+|**✅1-The Evolution of AI: From Supervised to Self-Learning**| [1](https://youtu.be/zBh_F58Yqco?si=vLpTP3fKUJXt2lLp)|---|[1](https://youtu.be/Z-T0iJEXiwM?si=JjXltBnF6gbv2smQ)[-2](https://youtu.be/0MNVhXEX9to?si=ojI9-TpIA2dNgpdc)|
 |[**✅1-Rewards**](https://coursesteach.com/mod/page/view.php?id=10597)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)|---|----|
 |[**✅2-Sequential Decision Making**](https://coursesteach.com/mod/page/view.php?id=10598)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)|---|---|
 |[**1- Introduction to Reinforcement Learning**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/_Y3zdjNPQ7c?si=xpn2sUywk_ATL30U)[-2](https://youtu.be/2pWv7GOvuf0?si=oWtXhuIefSTMriT0)|---|[1](https://youtu.be/Z-T0iJEXiwM?si=JjXltBnF6gbv2smQ)[-2](https://youtu.be/0MNVhXEX9to?si=ojI9-TpIA2dNgpdc)|
