@@ -207,7 +207,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | 6 | [**⭐Reinforcement learning course by Steve Brunton**](https://youtu.be/0MNVhXEX9to?si=89EH76OogiKhRozG) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)|
 | 7 | [**Stanford CS234 I Reinforcement Learning**](https://www.youtube.com/playlist?list=PLoROMvodv4rN4wG6Nk6sNpTEbuOSosZdX) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)|
 | 8 | [**Deep Reinforcement Learning-CS294-112 Fall 2017**](https://www.youtube.com/playlist?list=PLkFD6_40KJIznC9CDbVTjAF2oyt8_VAe3) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)|
-| 8 | [**DeepMind x UCL | Deep Learning Lecture Series 2021**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)9
+| 8 | [**DeepMind x UCL Deep Learning Lecture Series 2021**](https://www.youtube.com/playlist?list=PLqYmG7hTraZDVH599EItlEWsUOsJbAodm) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)9
 | 9 | [**Reinforcement Learning Specialization by coursera**](https://www.coursera.org/specializations/reinforcement-learning) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)9
 
 
@@ -223,7 +223,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | [**✅ 2-Bolt**](https://bolt.new/)  | Write software code and deploy                      | Completed  |
 | [**✅ 3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT) | Write software code and deploy                      | Completed  |
 | [**✅ 4-Deep-ML**](https://www.deep-ml.com/) | Interactive learning of ML, solve ML problems       | Completed  |
-| [**✅ 5-LeetGPU**](https://leetgpu.com/challenges) | It offers real-time execution and GPU simulation for learning and performance analysis.| InProgress  |
+| [**✅ 5-LeetGPU**](https://www.youtube.com/@brthor1117) | It offers real-time execution and GPU simulation for learning and performance analysis.| InProgress  |
 
 
 
@@ -232,6 +232,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 | **Title/Link**                                                                 | **Description**                                    | **Status** | Platform|
 |---------------------------------------------------------------------------------|----------------------------------------------------|------------|---|
 | [**✅ 1- Paderborn University - Department LEA**](https://www.youtube.com/@uni_pb_lea/playlists) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
+| [**✅ 2- brthor**](https://www.youtube.com/@uni_pb_lea/playlists) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
 
 
 
