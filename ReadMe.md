@@ -239,6 +239,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |---------------------------------------------------------------------------------|----------------------------------------------------|------------|---|
 | [**✅ 1- Paderborn University - Department LEA**](https://www.youtube.com/@uni_pb_lea/playlists) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
 | [**✅ 2- brthor**](https://www.youtube.com/@uni_pb_lea/playlists) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
+| [**✅ 3-Joseph Suarez**](https://www.youtube.com/@neuralmmo) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
 
 
 
