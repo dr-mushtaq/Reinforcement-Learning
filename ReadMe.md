@@ -17,6 +17,20 @@ Algorithms: Implementation examples of various ML algorithms, organized for easy
 - Basic Probability Theory (Expectations and Distributions)
 - Multivariate Calculus
 
+ ## Quick Start Checklist with Links
+
+- Subscribe to [Reinforcement Learning on YouTube](https://www.youtube.com/playlist?list=PLLC7bmONapvAmMniWr0kbZ-aoOoGTAAs9) and review the playlist
+- Enroll in Reinforcement Learnin Courese [Reinforcement Learnin!](https://coursesteach.com/course/view.php?id=57).  
+
+<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
+<p align="center">
+<img src="https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/blob/main/1adb02cb-941f-4231-b9a6-15fc19593593_735x843.jpg"></a>
+</p>
+
+If you'd like to suggest a tool or contribute to this directory, feel free to reach out or submit ideas via
+
+![GitHub Repo stars](https://img.shields.io/github/stars/dr-mushtaq/Awesome-AI-Tools-Resources?style=social)
+
 
 ## **💡 How to Participate?**
 
