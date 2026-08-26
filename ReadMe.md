@@ -22,41 +22,54 @@ Algorithms: Implementation examples of various ML algorithms, organized for easy
 - Subscribe to [Reinforcement Learning on YouTube](https://www.youtube.com/playlist?list=PLLC7bmONapvAmMniWr0kbZ-aoOoGTAAs9) and review the playlist
 - Enroll in Reinforcement Learnin Courese [Reinforcement Learnin!](https://coursesteach.com/course/view.php?id=57).  
 
-<a href="https://app.commanddash.io/agent?github=https://github.com/hussain0048/Natural-language-processing"><img src="https://img.shields.io/badge/AI-Code%20Gen-EB9FDA"></a>
-<p align="center">
-<img src="https://github.com/dr-mushtaq/Awesome-AI-Tools-Resources/blob/main/1adb02cb-941f-4231-b9a6-15fc19593593_735x843.jpg"></a>
-</p>
 
-If you'd like to suggest a tool or contribute to this directory, feel free to reach out or submit ideas via
+### 🙌 Become a Sponsor
 
-![GitHub Repo stars](https://img.shields.io/github/stars/dr-mushtaq/Awesome-AI-Tools-Resources?style=social)
+You can support this project by becoming a sponsor on **[GitHub Sponsors](https://github.com/sponsors/dr-mushtaq)** or via **bank transfer** — please contact me at 📧 [mushtaqmsit@gmail.com](mailto:mushtaqmsit@gmail.com).
 
+Every contribution — big or small — helps sustain the development of **AI tools and Resources**, **AI-driven educational resources**, and **data science tools**.  
+Thank you for your generous support! 🌟
 
-## **💡 How to Participate?**
+## 🤝 Contributing
 
-🚀 Fork & Star this repository
+We welcome suggestions and contributions to this list of awesome AI tools!
 
-👩‍💻 Explore and Learn from structured lessons
+### ✅ How to Contribute
 
-🔧 Enhance the current blog or code, or write a blog on a new topic
+1. **Fork** this repository.
+2. **Add your resources(blog, course,tutorial etc** in the appropriate category (alphabetically, if possible).
+3. Include the following details:
+   - Resources **Title** (with link)
+   - A **short description** (15–20 words)
+   - Relevant **Tags** (e.g., `Chatbot, Free, Web`)
+4. Create a **Pull Request (PR)** with a clear title and description of your changes.
 
-🔧 Implement & Experiment with provided code
+---
 
-🔧Convert lessons into interactive Colab notebooks
+### 💡 Alternative: Suggest via GitHub Issues
 
-🤝 Collaborate with fellow ML enthusiasts
+If you're not familiar with Git or Pull Requests, you can still contribute:
 
-🔧 Add new tutorials 
+- Open a **GitHub Issue** with the following format:
 
-🔧 Add quizzes or solutions
+Tool Name: Tool Title
+Description: One-line summary of what it does.
+Suggested Category: e.g., Video Tools, Chatbots
+Tags: Free, Web, Chatbot
 
-🔧 Create blog from next topic in our jounrney
+---
 
-🔧 suggestion other important website ,repistory,youtube Channel etc
+<details> 
+The tasks listed below are pending completion. If any team member has availability, kindly take them up and complete them.
+<summary> <h2>📚 Todo List </h2> </summary>
 
-📌 Contribute your own implementations & projects
+| Title/Link | Task |Status|
+|---|---|---|
+| [**[Learn any thing](https://sifuyik.substack.com/p/top-10-websites-to-learn-anything?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true). | Create new category(Learn any thing) and put all data from link|Pending|
+| [Auferet](https://auferet.com) | AI game master that remembers your world: persistent memory for characters, places, and lore you upload; solo or multiplayer, 5e & Pathfinder 2e | — |
+| [**Create Screen recording to tools| Wee need Screen recording to every tool|Pending|
+</details>
 
-📌 Share valuable blogs, videos, courses, GitHub repositories, and research websites
 
 
 ## **🌍 Join Our Community**
