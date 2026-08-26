@@ -33,15 +33,6 @@ We welcome contributions from the community! Whether it's fixing a bug, adding a
 - Basic Probability Theory (Expectations and Distributions)
 - Multivariate Calculus
 
-## Why Contribute?
-
-1- **Share Your Expertise**: If you have knowledge or insights in machine learning or TinyML, your contributions can assist others in learning and applying these concepts.
-
-2-**Enhance Your Skills**: Contributing to this project offers a great opportunity to deepen your understanding of machine learning systems. Writing, coding, or reviewing content will reinforce your knowledge while uncovering new areas of the field.
-
-3- **Collaborate and Connect**: Join a community of like-minded individuals committed to advancing AI education. Work with peers, receive feedback, and build connections that may open up new opportunities.
-
-4- **Make a Difference**: Your contributions can shape how others learn and engage with machine learning. By refining and expanding content, you help shape the education of future engineers and AI experts.
 
 ## **💡 How to Participate?**
 
@@ -74,10 +65,6 @@ We welcome contributions from the community! Whether it's fixing a bug, adding a
 
 🔗 [**YouTube Channe**l](https://www.youtube.com/@coursesteach-mv5si/videos)
 
-🔗 [**SubStack Blogs**](https://substack.com/@coursesteach)
-
-🔗 [**Facebook**](https://www.facebook.com/CourseTeach)
-
 🔗 [**LinkedIn**](https://www.linkedin.com/company/90909828/admin/page-posts/published/)
 
 🔗 [**Gumroad**](https://gumroad.com/products/antows/edit)
@@ -95,18 +82,6 @@ Star this repo if you find it useful ⭐
  
  [Machine Learning-gumroad](https://mushtaqmind.gumroad.com/)
 
-## 📬 Stay Updated with Weekly Machine Learning Lessons!
-
-Never miss a tutorial! Get weekly insights, updates, and bonus content straight to your inbox.  
-**Join hundreds of Machine Learning learners on Substack.**
-
-👉 [**Subscribe to Our Machine Learning Newsletter**](https://substack.com/@coursesteach) ✨
-
-💡 Optional Badge (to make it pop)
-
-[![Subscribe on Substack](https://img.shields.io/badge/Subscribe-Substack-orange?style=for-the-badge&logo=substack)](https://substack.com/@coursesteach)
-
- 
 
 <details> 
 <summary> <h2>Course 01 - ⚙️Foundations </h2> </summary>
@@ -121,7 +96,7 @@ Never miss a tutorial! Get weekly insights, updates, and bonus content straight 
 |[**✅1-Rewards**](https://coursesteach.com/mod/page/view.php?id=10597)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)[-3](https://youtu.be/JN7mh7xZs6w?si=glr4180i4Ah-hPE0)|---|----|
 |[**✅2-Sequential Decision Making**](https://coursesteach.com/mod/page/view.php?id=10598)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)|---|---|
 |[**✅3-Agent and enivronnment**](https://coursesteach.com/mod/page/view.php?id=10603&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)|---|----|
-|[**✅4-History and State**](https://coursesteach.com/mod/page/view.php?id=10604&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)|---|----|
+|[**✅4-History and State**](https://coursesteach.com/mod/page/view.php?id=10604&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/5fmvAe7g1u0?si=2zIat-EZL6gCOYjM)|---|----|
 |[**✅5-Environment State**](https://coursesteach.com/mod/page/view.php?id=10607)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)|---|----|
 |[**✅6-Agent State**](https://coursesteach.com/mod/page/view.php?id=10608&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)|---|----|
 |[**✅7-Information State**](https://coursesteach.com/mod/page/view.php?id=10609&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/_Y3zdjNPQ7c?si=jlxJv5RKtkuzgNTf)[-3](https://youtu.be/ijUDH_K0h8A?si=6VloZtlMOW2m4osG)|---|----|
