@@ -191,10 +191,6 @@ Star this repo if you find it useful ⭐
 | 9 | [**Reinforcement Learning Specialization by coursera**](https://www.coursera.org/specializations/reinforcement-learning) | it is free course on yotube| Pending | Youtube | ⭐️⭐️⭐️⭐️ |[1](https://www.youtube.com/@uni_pb_lea/playlists)9
 
 
-
-
-
-
 ## 👁️ Chapter 2: Important Websites
 
 | **Title**                         | **Description**                                     | **Status** |
@@ -206,7 +202,6 @@ Star this repo if you find it useful ⭐
 | [**✅ 5-LeetGPU**](https://www.youtube.com/@brthor1117) | It offers real-time execution and GPU simulation for learning and performance analysis.| InProgress  |
 
 
-
 ## ➕ Additional Social Media Groups
 
 | **Title/Link**                                                                 | **Description**                                    | **Status** | Platform|
@@ -214,8 +209,6 @@ Star this repo if you find it useful ⭐
 | [**✅ 1- Paderborn University - Department LEA**](https://www.youtube.com/@uni_pb_lea/playlists) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
 | [**✅ 2- brthor**](https://www.youtube.com/@uni_pb_lea/playlists) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
 | [**✅ 3-Joseph Suarez**](https://www.youtube.com/@neuralmmo) | Reddit thread focused on crowd-sourcing a 2025 ML learning roadmap | Pending    |Reddit
-
-
 
 ## 👁️ Chapter 4: Free Books
 
@@ -235,6 +228,7 @@ Star this repo if you find it useful ⭐
 | [**4-Awesome Reinforcement Learning**](https://github.com/aikorea/awesome-rl#lectures) | GitHub repository with video lectures for computer science courses | Pending    |
 | [**4-awesome-datascience**](https://github.com/academic/awesome-datascience) | GitHub repository with video lectures for computer science courses | Pending    |
 | [**5-Reinforcement Learning in 60 days**](https://github.com/andri27-ts/Reinforcement-Learning) | Explore the combination of neural network and reinforcement learning. Algorithms and examples in Python & PyTorch | Pending    |
+| [**6-Reinforcement-Learning-Course**](https://github.com/bshivambharadwaj/Reinforcement-Learning-Course) | Explore the combination of neural network and reinforcement learning. Algorithms and examples in Python & PyTorch | Pending    |
 
 
 
