@@ -1,8 +1,8 @@
 ## **🧠 Welcome to the A-Z Guide to Reinforcement Learning**
 
-Dive into the A-Z Guide to Reinforcement Learning — a comprehensive and beginner-friendly resource designed to demystify the exciting world of RL! Whether you're a data science enthusiast, a machine learning researcher, or just curious about how agents learn through rewards, this repository is your ultimate learning companion.
+A beginner-friendly and structured learning repository for Reinforcement Learning (RL), covering foundations, classical algorithms, deep RL, advanced methods, and practical tools.
 
-We explore core concepts, popular algorithms (like Q-Learning, Deep Q Networks, and Policy Gradients), and real-world applications of Reinforcement Learning, all backed with hands-on Python implementations and detailed explanations.
+This repository is designed for learners who want to understand how agents learn from interaction, rewards, and decision-making in dynamic environments.
 
  ## If you found this helpful, Please Start it to help other discover these tutorials ⭐
 
