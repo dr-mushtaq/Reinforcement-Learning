@@ -205,6 +205,8 @@ Star this repo if you find it useful ⭐
 | [**✅ 3-AI Personal Assistant**](https://www.uphop.ai/app?code=cHVMT) | Write software code and deploy                      | Completed  |
 | [**✅ 4-Deep-ML**](https://www.deep-ml.com/) | Interactive learning of ML, solve ML problems       | Completed  |
 | [**✅ 5-LeetGPU**](https://www.youtube.com/@brthor1117) | It offers real-time execution and GPU simulation for learning and performance analysis.| InProgress  |
+| [**✅ 6-RL basics**](https://www.neatrl.com/basics) | It offers real-time execution and GPU simulation for learning and performance analysis.| InProgress  |
+
 
 
 ## ➕ Additional Social Media Groups
