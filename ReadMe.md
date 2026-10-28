@@ -105,7 +105,8 @@ Star this repo if you find it useful ⭐
 |[**✅10-RL Agent Components**](https://coursesteach.com/mod/page/view.php?id=10609&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/QNXI_qYvgOQ?si=6MZfOi1Oqs_lH6D7)|---|----|
 |[**✅11-RL with a Simple Maze**](https://coursesteach.com/mod/page/view.php?id=10609&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/bncjVR4BvZc?si=TeGbjraJc51ze7hE)|---|----|
 |[**✅12-Taxonomy of Reinforcement Learning Agents**](https://coursesteach.com/mod/page/view.php?id=10658&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/X23ss1Dqu9U?si=NXJaAHeMKLJNPT6X)|---|----|
-|[**3-Markov Processes (MDP, Bellman equations)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)[⭐️substack](https://mushtaqmsit.substack.com/p/supervised-vs-unsupervised-learning)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://drive.google.com/file/d/1_XeyO9RdidG6L1dfBQHEl1fVbQhzABGS/view?usp=sharing)[-3](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv&index=1)|---|
+|[**✅13-Reinforcement Learning Problems**](https://coursesteach.com/mod/page/view.php?id=10658&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/X23ss1Dqu9U?si=NXJaAHeMKLJNPT6X)|---|----|
+|[**3-Markov Processes (MDP, Bellman equations)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)[⭐️substack](https://mushtaqmsit.substack.com/p/supervised-vs-unsupervised-learning)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://youtu.be/inIPmydb8wY?si=KNCKnqw9fRs-1SYq)|---|
 
 </details>
 
