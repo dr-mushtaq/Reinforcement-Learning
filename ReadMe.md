@@ -109,6 +109,12 @@ Star this repo if you find it useful ⭐
 |[**✅14-Explore, Exploit, Predict & Control**](https://coursesteach.com/mod/page/view.php?id=10658&forceview=1)| [1](https://youtu.be/2pWv7GOvuf0?si=m9pjYE00ty3ZdYE6)[-2](https://youtu.be/J0d76Uy4Gqg?si=rxMswjBtllxBW851)|---|----|
 |[**3-Markov Processes (MDP, Bellman equations)**](https://medium.com/@Coursesteach/machine-learning-part-3-ced377a54767)[⭐️substack](https://mushtaqmsit.substack.com/p/supervised-vs-unsupervised-learning)|[**1**](https://drive.google.com/file/d/1Y10PxlgD4Gm6ALi-aVa8T9pUmYloPaXl/view?usp=sharing)[**-2**](https://youtu.be/inIPmydb8wY?si=KNCKnqw9fRs-1SYq)|---|
 
+## 📚Chapter: 2  - **Markov Decision Processes**
+ 
+| Topic Name/Tutorial  | Video | Code |Extra Resources|
+|---|---|---|---|
+|[**1- Introduction to Reinforcement Learning**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/_Y3zdjNPQ7c?si=xpn2sUywk_ATL30U)[-2](https://youtu.be/2pWv7GOvuf0?si=oWtXhuIefSTMriT0)|---|[1](https://youtu.be/Z-T0iJEXiwM?si=JjXltBnF6gbv2smQ)[-2](https://youtu.be/0MNVhXEX9to?si=ojI9-TpIA2dNgpdc)|
+
 </details>
 
 <details> 
