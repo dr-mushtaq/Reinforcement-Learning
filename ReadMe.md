@@ -114,7 +114,7 @@ Star this repo if you find it useful ⭐
 | Topic Name/Tutorial  | Video | Code |Extra Resources|
 |---|---|---|---|
 |[**✅1-Introduction to Markov Decision Processes**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/rNIiiQPDTUg?si=mRYa7ttlvaOvUryk)[-2](https://youtu.be/lfHX2hHRMVQ?si=WQhhI19yJyswYUnw)|---|[1](https://youtu.be/Z-T0iJEXiwM?si=JjXltBnF6gbv2smQ)[-2](https://youtu.be/0MNVhXEX9to?si=ojI9-TpIA2dNgpdc)|
-|[**✅2-Markov Process and State Transition Matrix**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/rNIiiQPDTUg?si=mRYa7ttlvaOvUryk)[-2](https://youtu.be/7bp27LnHSVo?si=6jnFmuZxUh26N9wG)|----|
+|[**✅2-Markov Process and State Transition Matrix**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/lfHX2hHRMVQ?si=j9Ott-t3J2pE7_Ll)[-2](https://youtu.be/7bp27LnHSVo?si=6jnFmuZxUh26N9wG)|----|
 |[**2- Introduction to Reinforcement Learning**](https://substack.com/home/post/p-155594915)| [1](https://youtu.be/_Y3zdjNPQ7c?si=xpn2sUywk_ATL30U)[-2](https://youtu.be/2pWv7GOvuf0?si=oWtXhuIefSTMriT0)|---|[1](https://youtu.be/Z-T0iJEXiwM?si=JjXltBnF6gbv2smQ)[-2](https://youtu.be/0MNVhXEX9to?si=ojI9-TpIA2dNgpdc)|
 
 </details>
